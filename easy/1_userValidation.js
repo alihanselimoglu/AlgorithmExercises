@@ -5,9 +5,9 @@ export const userValidation = (str) => {
     (/^\w+$/).test(str) &&
     (/[a-zA-Z0-9]/).test(str.slice(-1))
     ) {
-    console.log(true);
-  } else {
-    console.log(false);
+      return true
+    } else {
+      return false
 
   }
 
