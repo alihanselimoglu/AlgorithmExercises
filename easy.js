@@ -8,4 +8,8 @@ import { longestWord } from "./easy/2_longestWord.js";
 
 import { firstFactorial } from "./easy/3_firstFactorial.js";
 
-console.log(firstFactorial(8))
+// console.log(firstFactorial(8))
+
+import { firstReverse } from "./easy/4_firstReverse.js";
+
+console.log(firstReverse("I love my pants"))
