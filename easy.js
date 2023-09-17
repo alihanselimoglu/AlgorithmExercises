@@ -4,4 +4,8 @@ import { userValidation } from "./easy/1_userValidation.js";
 
 import { longestWord } from "./easy/2_longestWord.js";
 
-console.log(longestWord("fun&!! time"))
+// console.log(longestWord("fun&!! time"))
+
+import { firstFactorial } from "./easy/3_firstFactorial.js";
+
+console.log(firstFactorial(8))
