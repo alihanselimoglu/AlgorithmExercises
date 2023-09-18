@@ -12,4 +12,8 @@ import { firstFactorial } from "./easy/3_firstFactorial.js";
 
 import { firstReverse } from "./easy/4_firstReverse.js";
 
-console.log(firstReverse("I love my pants"))
+// console.log(firstReverse("I love my pants"))
+
+import { findIntersection } from "./easy/5_findIntersection.js";
+
+console.log(findIntersection(["1, 3, 4, 7, 13", "1, 2, 4, 13, 15"]))
