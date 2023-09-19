@@ -20,6 +20,10 @@ import { findIntersection } from "./easy/5_findIntersection.js";
 
 import { letterChange } from "./easy/7_letterChange.js";
 
-console.log(letterChange("dfrgegGSRGeeddAAAhhdddddd"))
+// console.log(letterChange("dfrgegGSRGeeddAAAhhdddddd"))
+
+import { questionMark } from "./easy/6_questionsMark.js";
+
+console.log(questionMark("acc?7??sss?3rr1??????5"))
 
 
