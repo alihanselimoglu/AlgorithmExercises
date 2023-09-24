@@ -24,6 +24,10 @@ import { letterChange } from "./easy/7_letterChange.js";
 
 import { questionMark } from "./easy/6_questionsMark.js";
 
-console.log(questionMark("acc?7??sss?3rr1??????5"))
+// console.log(questionMark("acc?7??sss?3rr1??????5"))
+
+import { simpleAdding } from "./easy/8_simpleAdding.js";
+
+console.log(simpleAdding(4))
 
 
