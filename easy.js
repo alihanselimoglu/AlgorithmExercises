@@ -28,6 +28,10 @@ import { questionMark } from "./easy/6_questionsMark.js";
 
 import { simpleAdding } from "./easy/8_simpleAdding.js";
 
-console.log(simpleAdding(4))
+// console.log(simpleAdding(4))
+
+import { letterCapitalize } from "./easy/9_letterCapitalize.js";
+
+console.log(letterCapitalize("alihan sel o yee"))
 
 
