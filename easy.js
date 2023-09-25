@@ -36,6 +36,10 @@ import { letterCapitalize } from "./easy/9_letterCapitalize.js";
 
 import { simpleSymbols } from "./easy/10_simpleSymbols.js";
 
-console.log(simpleSymbols("++d+===+c++==+a+"))
+// console.log(simpleSymbols("++d+===+c++==+a+"))
+
+import { timeConvert } from "./easy/12_timeConvert.js";
+
+console.log(timeConvert(23))
 
 
