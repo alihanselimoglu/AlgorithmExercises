@@ -32,6 +32,10 @@ import { simpleAdding } from "./easy/8_simpleAdding.js";
 
 import { letterCapitalize } from "./easy/9_letterCapitalize.js";
 
-console.log(letterCapitalize("alihan sel o yee"))
+// console.log(letterCapitalize("alihan sel o yee"))
+
+import { simpleSymbols } from "./easy/10_simpleSymbols.js";
+
+console.log(simpleSymbols("++d+===+c++==+a+"))
 
 
