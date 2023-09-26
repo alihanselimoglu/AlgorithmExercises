@@ -40,6 +40,10 @@ import { simpleSymbols } from "./easy/10_simpleSymbols.js";
 
 import { timeConvert } from "./easy/12_timeConvert.js";
 
-console.log(timeConvert(23))
+// console.log(timeConvert(23))
+
+import { alphabetSoup } from "./easy/13_alphabetSoup.js";
+
+console.log(alphabetSoup('helloea'))
 
 
