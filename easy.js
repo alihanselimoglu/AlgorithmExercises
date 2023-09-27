@@ -48,4 +48,8 @@ import { alphabetSoup } from "./easy/13_alphabetSoup.js";
 
 import { abCheck } from "./easy/14_abCheck.js";
 
-console.log(abCheck("bsssasadadannbannnb"))
+// console.log(abCheck("bsssasadadannbannnb"))
+
+import { exOh } from "./easy/17_exoh.js";
+
+console.log(exOh("xooxxxxooxooooxx"))
