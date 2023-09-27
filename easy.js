@@ -52,4 +52,8 @@ import { abCheck } from "./easy/14_abCheck.js";
 
 import { exOh } from "./easy/17_exoh.js";
 
-console.log(exOh("xooxxxxooxooooxx"))
+// console.log(exOh("xooxxxxooxooooxx"))
+
+import { wordCount } from "./easy/16_wordCount.js";
+
+console.log(wordCount("Never eat shredded wheat"))
