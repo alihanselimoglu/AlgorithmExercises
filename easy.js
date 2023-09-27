@@ -56,4 +56,8 @@ import { exOh } from "./easy/17_exoh.js";
 
 import { wordCount } from "./easy/16_wordCount.js";
 
-console.log(wordCount("Never eat shredded wheat"))
+// console.log(wordCount("Never eat shredded wheat"))
+
+import { vowelCount } from "./easy/15_vowelCount.js";
+
+console.log(vowelCount("All cows eat grass"))
