@@ -60,4 +60,8 @@ import { wordCount } from "./easy/16_wordCount.js";
 
 import { vowelCount } from "./easy/15_vowelCount.js";
 
-console.log(vowelCount("All cows eat grass"))
+// console.log(vowelCount("All cows eat grass"))
+
+import { isPalindrome } from "./easy/18_palindrome.js";
+
+console.log(isPalindrome("aca"))
