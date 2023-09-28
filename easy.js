@@ -64,4 +64,8 @@ import { vowelCount } from "./easy/15_vowelCount.js";
 
 import { isPalindrome } from "./easy/18_palindrome.js";
 
-console.log(isPalindrome("aca"))
+// console.log(isPalindrome("aca"))
+
+import { ArithGeo } from "./easy/19_arithGeo.js";
+
+console.log(ArithGeo([1,2,4,8,1]))
