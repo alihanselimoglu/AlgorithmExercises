@@ -68,4 +68,12 @@ import { isPalindrome } from "./easy/18_palindrome.js";
 
 import { ArithGeo } from "./easy/19_arithGeo.js";
 
-console.log(ArithGeo([1,2,4,8,1]))
+// console.log(ArithGeo([1,2,4,8,1]))
+
+import { arrayAddition } from "./easy/20_arrayAddition.js";
+
+// console.log(arrayAddition([4, 6, 23, 10, 1, 3]))
+
+import { letterCapitalize } from "./easy/9_letterCapitalize.js";
+
+console.log(letterCapitalize("Today, is the greatest day ever!"))
