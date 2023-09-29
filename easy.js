@@ -74,6 +74,6 @@ import { arrayAddition } from "./easy/20_arrayAddition.js";
 
 // console.log(arrayAddition([4, 6, 23, 10, 1, 3]))
 
-import { letterCapitalize } from "./easy/9_letterCapitalize.js";
+import { letterCount } from "./easy/21_letterCount.js";
 
-console.log(letterCapitalize("Today, is the greatest day ever!"))
+console.log(letterCount("Today, is the greatest day ever!"))
