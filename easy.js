@@ -84,4 +84,8 @@ import { SecondGreatLow } from "./easy/22_secondGreatLow.js";
 
 import { devisionStringified } from "./easy/23_divisionStringified.js";
 
-console.log(devisionStringified(123456789, 10000))
+// console.log(devisionStringified(123456789, 10000))
+
+import { CountingMinutesI } from "./easy/24_countingMinutes.js";
+
+console.log(CountingMinutesI("9:00am-10:00am"))
