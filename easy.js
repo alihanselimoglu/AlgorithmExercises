@@ -80,4 +80,8 @@ import { letterCount } from "./easy/21_letterCount.js";
 
 import { SecondGreatLow } from "./easy/22_secondGreatLow.js";
 
-console.log(SecondGreatLow([7, 7, 12, 98, 106]))
+// console.log(SecondGreatLow([7, 7, 12, 98, 106]))
+
+import { devisionStringified } from "./easy/23_divisionStringified.js";
+
+console.log(devisionStringified(123456789, 10000))
