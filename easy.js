@@ -88,4 +88,8 @@ import { devisionStringified } from "./easy/23_divisionStringified.js";
 
 import { CountingMinutesI } from "./easy/24_countingMinutes.js";
 
-console.log(CountingMinutesI("9:00am-10:00am"))
+// console.log(CountingMinutesI("9:00am-10:00am"))
+
+import { MeanMode } from "./easy/25_MeanMode.js";
+
+console.log(MeanMode([5, 3, 3, 3, 1]))
