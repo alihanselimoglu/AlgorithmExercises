@@ -96,4 +96,8 @@ import { MeanMode } from "./easy/25_MeanMode.js";
 
 import { dashInsert } from "./easy/26_dashInsert.js";
 
-console.log(dashInsert("4547933333122224211342556775"))
+// console.log(dashInsert("4547933333122224211342556775"))
+
+import { swapCase } from "./easy/27_swapCase.js";
+
+console.log(swapCase("Hello World"))
