@@ -92,4 +92,8 @@ import { CountingMinutesI } from "./easy/24_countingMinutes.js";
 
 import { MeanMode } from "./easy/25_MeanMode.js";
 
-console.log(MeanMode([5, 3, 3, 3, 1]))
+// console.log(MeanMode([5, 3, 3, 3, 1]))
+
+import { dashInsert } from "./easy/26_dashInsert.js";
+
+console.log(dashInsert("4547933333122224211342556775"))
