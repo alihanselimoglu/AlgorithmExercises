@@ -112,4 +112,8 @@ import { ThirdGreatest } from "./easy/29_thirdGreatest.js";
 
 import { PowersofTwo } from "./easy/30_PowersofTwo.js";
 
-console.log(PowersofTwo(1024))
+// console.log(PowersofTwo(1024))
+
+import { AdditivePersistence } from "./easy/31_AdditivePersistence.js";
+
+console.log(AdditivePersistence(2718))
