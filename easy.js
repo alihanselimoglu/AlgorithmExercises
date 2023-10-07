@@ -104,4 +104,8 @@ import { swapCase } from "./easy/27_swapCase.js";
 
 import { numberAddition } from "./easy/28_numberAddition.js";
 
-console.log(numberAddition("55Helllo 4"))
+// console.log(numberAddition("55Helllo 4"))
+
+import { ThirdGreatest } from "./easy/29_thirdGreatest.js";
+
+console.log(ThirdGreatest(["hello", "world", "after", "all", "oyeeee"]))
