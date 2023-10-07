@@ -108,4 +108,8 @@ import { numberAddition } from "./easy/28_numberAddition.js";
 
 import { ThirdGreatest } from "./easy/29_thirdGreatest.js";
 
-console.log(ThirdGreatest(["hello", "world", "after", "all", "oyeeee"]))
+// console.log(ThirdGreatest(["hello", "world", "after", "all", "oyeeee"]))
+
+import { PowersofTwo } from "./easy/30_PowersofTwo.js";
+
+console.log(PowersofTwo(1024))
