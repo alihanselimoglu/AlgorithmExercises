@@ -120,6 +120,10 @@ import { AdditivePersistence } from "./easy/31_AdditivePersistence.js";
 
 import { MultiplicativePersistence } from "./easy/32_MultiplicativePersistence.js";
 
-console.log(MultiplicativePersistence(39))
+// console.log(MultiplicativePersistence(39))
+
+import { OffLineMinimum } from "./easy/33_OffLineMinimum.js";
+
+console.log(OffLineMinimum(["5","4","6","E","1","7","E","E","3","2"]))
 
 
