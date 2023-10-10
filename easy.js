@@ -116,4 +116,10 @@ import { PowersofTwo } from "./easy/30_PowersofTwo.js";
 
 import { AdditivePersistence } from "./easy/31_AdditivePersistence.js";
 
-console.log(AdditivePersistence(2718))
+// console.log(AdditivePersistence(2718))
+
+import { MultiplicativePersistence } from "./easy/32_MultiplicativePersistence.js";
+
+console.log(MultiplicativePersistence(39))
+
+
