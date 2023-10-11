@@ -124,6 +124,10 @@ import { MultiplicativePersistence } from "./easy/32_MultiplicativePersistence.j
 
 import { OffLineMinimum } from "./easy/33_OffLineMinimum.js";
 
-console.log(OffLineMinimum(["5","4","6","E","1","7","E","E","3","2"]))
+// console.log(OffLineMinimum(["5","4","6","E","1","7","E","E","3","2"]))
+
+import { ChangingSequence } from "./easy/34_ChangingSequence.js";
+
+console.log(ChangingSequence([-4, -2, 9, 10, 14, 13]))
 
 
