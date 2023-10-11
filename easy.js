@@ -132,6 +132,10 @@ import { ChangingSequence } from "./easy/34_ChangingSequence.js";
 
 import { Superincreasing } from "./easy/36_Superincreasing.js";
 
-console.log(Superincreasing([1,2,5,10]))
+// console.log(Superincreasing([1,2,5,10]))
+
+import { OverlappingRanges } from "./easy/35_OverlappingRanges.js";
+
+// console.log(OverlappingRanges([4, 10, 2, 6, 3]))
 
 
