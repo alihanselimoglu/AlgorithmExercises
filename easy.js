@@ -128,6 +128,10 @@ import { OffLineMinimum } from "./easy/33_OffLineMinimum.js";
 
 import { ChangingSequence } from "./easy/34_ChangingSequence.js";
 
-console.log(ChangingSequence([-4, -2, 9, 10, 14, 13]))
+// console.log(ChangingSequence([-4, -2, 9, 10, 14, 13]))
+
+import { Superincreasing } from "./easy/36_Superincreasing.js";
+
+console.log(Superincreasing([1,2,5,10]))
 
 
