@@ -144,6 +144,10 @@ import { HammingDistance } from "./easy/37_HammingDistance.js";
 
 import { BitwiseOne } from "./easy/38_BitwiseOne.js";
 
-console.log(BitwiseOne(["00011", "01010"]))
+// console.log(BitwiseOne(["00011", "01010"]))
+
+import { CheckNums } from "./easy/11_CheckNums.js";
+
+console.log(CheckNums(6,7))
 
 
