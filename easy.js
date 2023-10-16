@@ -140,6 +140,10 @@ import { OverlappingRanges } from "./easy/35_OverlappingRanges.js";
 
 import { HammingDistance } from "./easy/37_HammingDistance.js";
 
-console.log(HammingDistance(["helloworld", "worldhello"]))
+// console.log(HammingDistance(["helloworld", "worldhello"]))
+
+import { BitwiseOne } from "./easy/38_BitwiseOne.js";
+
+console.log(BitwiseOne(["00011", "01010"]))
 
 
