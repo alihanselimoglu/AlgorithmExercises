@@ -138,4 +138,8 @@ import { OverlappingRanges } from "./easy/35_OverlappingRanges.js";
 
 // console.log(OverlappingRanges([4, 10, 2, 6, 3]))
 
+import { HammingDistance } from "./easy/37_HammingDistance.js";
+
+console.log(HammingDistance(["helloworld", "worldhello"]))
+
 
