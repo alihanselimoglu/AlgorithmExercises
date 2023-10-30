@@ -148,6 +148,10 @@ import { BitwiseOne } from "./easy/38_BitwiseOne.js";
 
 import { CheckNums } from "./easy/11_CheckNums.js";
 
-console.log(CheckNums(6,7))
+// console.log(CheckNums(6,7))
+
+import { WaveSorting } from "./easy/39_WaveSorting.js";
+
+console.log(WaveSorting([0, 4, 22, 4, 14, 4, 2]))
 
 
