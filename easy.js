@@ -152,6 +152,9 @@ import { CheckNums } from "./easy/11_CheckNums.js";
 
 import { WaveSorting } from "./easy/39_WaveSorting.js";
 
-console.log(WaveSorting([0, 4, 22, 4, 14, 4, 2]))
+// console.log(WaveSorting([0, 4, 22, 4, 14, 4, 2]))
 
+import { ArrayMatching } from "./easy/40_ArrayMatching.js";
+
+console.log(ArrayMatching(["[5, 2, 3]", "[2, 2, 3, 10, 6]"]))
 
