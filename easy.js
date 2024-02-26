@@ -164,4 +164,8 @@ import { BinaryReversal } from './easy/41_BinaryReversal.js';
 
 import { NonrepeatingCharacter } from './easy/42_NonrepeatingCharacter.js';
 
-console.log(NonrepeatingCharacter('hello world hi hey'));
+// console.log(NonrepeatingCharacter('hello world hi hey'));
+
+import { PalindromeTwo } from './easy/45_PalindromeTwo.js';
+
+console.log(PalindromeTwo('A war at Tarawa!'))
