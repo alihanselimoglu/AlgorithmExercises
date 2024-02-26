@@ -156,5 +156,8 @@ import { WaveSorting } from "./easy/39_WaveSorting.js";
 
 import { ArrayMatching } from "./easy/40_ArrayMatching.js";
 
-console.log(ArrayMatching(["[5, 2, 3]", "[2, 2, 3, 10, 6]"]))
+// console.log(ArrayMatching(["[5, 2, 3]", "[2, 2, 3, 10, 6]"]))
 
+import { BinaryReversal } from "./easy/41_BinaryReversal.js";
+
+console.log(BinaryReversal('47'))
