@@ -168,4 +168,8 @@ import { NonrepeatingCharacter } from './easy/42_NonrepeatingCharacter.js';
 
 import { PalindromeTwo } from './easy/45_PalindromeTwo.js';
 
-console.log(PalindromeTwo('A war at Tarawa!'))
+// console.log(PalindromeTwo('A war at Tarawa!'))
+
+import { LargestFour } from './easy/60_LargestFour.js';
+
+console.log(LargestFour([0, 0, 2, 3, 7, 1]))
