@@ -176,4 +176,8 @@ import { LargestFour } from './easy/60_LargestFour.js';
 
 import { CamelCase } from './easy/61_CamelCase.js';
 
-console.log(CamelCase('a b c d-e-f%g'))
+// console.log(CamelCase('a b c d-e-f%g'))
+
+import { SumMultiplier } from './easy/63_SumMultiplier.js';
+
+console.log(SumMultiplier([1, 1, 2, 10, 3, 1, 12]))
