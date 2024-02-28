@@ -182,6 +182,10 @@ import { SumMultiplier } from './easy/63_SumMultiplier.js';
 
 // console.log(SumMultiplier([1, 1, 2, 10, 3, 1, 12]))
 
-import { ElementMerger } from './easy/66_ElementMerger.JS/index.js';
+import { ElementMerger } from './easy/66_ElementMerger.js';
 
-console.log(ElementMerger([1, 1, 1, 2]))
+// console.log(ElementMerger([1, 1, 1, 2]))
+
+import { ASCIIConversion } from './easy/67_ASCIIConversion.js';
+
+console.log(ASCIIConversion('abc **'))
