@@ -172,4 +172,8 @@ import { PalindromeTwo } from './easy/45_PalindromeTwo.js';
 
 import { LargestFour } from './easy/60_LargestFour.js';
 
-console.log(LargestFour([0, 0, 2, 3, 7, 1]))
+// console.log(LargestFour([0, 0, 2, 3, 7, 1]))
+
+import { CamelCase } from './easy/61_CamelCase.js';
+
+console.log(CamelCase('a b c d-e-f%g'))
