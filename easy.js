@@ -180,4 +180,8 @@ import { CamelCase } from './easy/61_CamelCase.js';
 
 import { SumMultiplier } from './easy/63_SumMultiplier.js';
 
-console.log(SumMultiplier([1, 1, 2, 10, 3, 1, 12]))
+// console.log(SumMultiplier([1, 1, 2, 10, 3, 1, 12]))
+
+import { ElementMerger } from './easy/66_ElementMerger.JS/index.js';
+
+console.log(ElementMerger([1, 1, 1, 2]))
