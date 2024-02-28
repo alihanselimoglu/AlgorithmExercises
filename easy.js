@@ -188,4 +188,8 @@ import { ElementMerger } from './easy/66_ElementMerger.js';
 
 import { ASCIIConversion } from './easy/67_ASCIIConversion.js';
 
-console.log(ASCIIConversion('abc **'))
+// console.log(ASCIIConversion('abc **'))
+
+import { CommandLine } from './easy/73_CommandLine.js';
+
+console.log(CommandLine('a=3 b=4 a=23 b=a 4 23 c='))
