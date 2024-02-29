@@ -49,7 +49,7 @@ export const CommandLine = (str) => {
       isParameter = true;
     }
 
-    if (isParameter & (arr[i] == ' ')) {
+    if (isParameter && (arr[i] == ' ')) {
       count--;
       string = string + count + ' ';
       count = 0;

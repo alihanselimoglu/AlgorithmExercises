@@ -192,4 +192,8 @@ import { ASCIIConversion } from './easy/67_ASCIIConversion.js';
 
 import { CommandLine } from './easy/73_CommandLine.js';
 
-console.log(CommandLine('a=3 b=4 a=23 b=a 4 23 c='))
+// console.log(CommandLine('a=3 b=4 a=23 b=a 4 23 c='))
+
+import { StarRating } from './easy/74_StarRating.js';
+
+console.log(StarRating('4.14'))
