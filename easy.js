@@ -196,4 +196,8 @@ import { CommandLine } from './easy/73_CommandLine.js';
 
 import { StarRating } from './easy/74_StarRating.js';
 
-console.log(StarRating('4.14'))
+// console.log(StarRating('4.14'))
+
+import { SimpleEvens } from './easy/78_SimpleEvens.ts';
+
+console.log(SimpleEvens('2223222022267'))
