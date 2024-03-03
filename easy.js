@@ -198,6 +198,10 @@ import { StarRating } from './easy/74_StarRating.js';
 
 // console.log(StarRating('4.14'))
 
-import { SimpleEvens } from './easy/78_SimpleEvens.ts';
+import { SimpleEvens } from './easy/77_SimpleEvens.js';
 
-console.log(SimpleEvens('2223222022267'))
+// console.log(SimpleEvens('2223222022267'))
+
+import { FizzBuzz } from './easy/78_FizzBuzz.js';
+
+console.log(FizzBuzz(15))
