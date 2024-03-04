@@ -204,4 +204,8 @@ import { SimpleEvens } from './easy/77_SimpleEvens.js';
 
 import { FizzBuzz } from './easy/78_FizzBuzz.js';
 
-console.log(FizzBuzz(15))
+// console.log(FizzBuzz(15))
+
+import { DistinctCharacters } from './easy/79_DistinctCharacters.js';
+
+console.log(DistinctCharacters('12334bbmma:=6'))
