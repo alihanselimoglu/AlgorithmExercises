@@ -208,4 +208,8 @@ import { FizzBuzz } from './easy/78_FizzBuzz.js';
 
 import { DistinctCharacters } from './easy/79_DistinctCharacters.js';
 
-console.log(DistinctCharacters('12334bbmma:=6'))
+// console.log(DistinctCharacters('12334bbmma:=6'))
+
+import { RectangleArea } from './easy/81_RectangleArea.js';
+
+console.log(RectangleArea(["(0 0)","(1 0)","(1 1)","(0 1)"]))
