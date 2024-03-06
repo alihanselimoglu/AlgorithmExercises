@@ -212,4 +212,8 @@ import { DistinctCharacters } from './easy/79_DistinctCharacters.js';
 
 import { RectangleArea } from './easy/81_RectangleArea.js';
 
-console.log(RectangleArea(["(0 0)","(1 0)","(1 1)","(0 1)"]))
+// console.log(RectangleArea(["(0 0)","(1 0)","(1 1)","(0 1)"]))
+
+import { ConsonantCount } from './easy/83_ConsonantCount.js';
+
+console.log(ConsonantCount('Alphabets'))
