@@ -4,4 +4,8 @@ import { PrimeTime } from "./medium/1_PrimeTime.js";
 
 import { RunLength } from "./medium/2_RunLength.js";
 
-console.log(RunLength('wwwbbbw'))
+// console.log(RunLength('wwwbbbw'))
+
+import { DashInsert } from "./medium/10_DashInsert.js";
+
+console.log(DashInsert('56730'))
