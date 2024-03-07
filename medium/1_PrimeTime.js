@@ -7,7 +7,7 @@
 export const PrimeTime = (num) => {
   if (num <= 1) return false;
   if (num == 2) return true;
-  for (let i = 2; i <= parseInt(num / 2); i += 2) {
+  for (let i = 2; i <= parseInt(num / 2); i++) {
     if (num % i == 0) return false;
   }
   return true;
