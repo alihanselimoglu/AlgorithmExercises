@@ -16,4 +16,8 @@ import { PrimeMover } from "./medium/3_PrimeMover.js";
 
 import { StringScramble } from "./medium/4_StringScramble.js";
 
-console.log(StringScramble('abcdsdty', 'abcdsyo'))
+// console.log(StringScramble('abcdsdty', 'abcdsyo'))
+
+import { CaesarCipher } from "./medium/5_CaesarCipher.js";
+
+console.log(CaesarCipher('Caesar Cipher', 2))
