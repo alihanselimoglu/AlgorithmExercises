@@ -12,4 +12,8 @@ import { DashInsert } from "./medium/10_DashInsert.js";
 
 import { PrimeMover } from "./medium/3_PrimeMover.js";
 
-console.log(PrimeMover(11))
+// console.log(PrimeMover(11))
+
+import { StringScramble } from "./medium/4_StringScramble.js";
+
+console.log(StringScramble('abcdsdty', 'abcdsyo'))
