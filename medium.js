@@ -24,4 +24,8 @@ import { CaesarCipher } from "./medium/5_CaesarCipher.js";
 
 import { SimpleMode } from "./medium/6_SimpleMode.js";
 
-console.log(SimpleMode([5, 5, 10, 10, 6, 6, 6]))
+// console.log(SimpleMode([5, 5, 10, 10, 6, 6, 6]))
+
+import { Consecutive } from "./medium/7_Consecutive.js";
+
+console.log(Consecutive([4, 8, 6, 9, 11, 19, 1, 2, 3]))
