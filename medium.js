@@ -32,4 +32,8 @@ import { Consecutive } from "./medium/7_Consecutive.js";
 
 import { FormattedDivision } from "./medium/8_FormattedDivision.js";
 
-console.log(FormattedDivision(123456789124, 1000))
+// console.log(FormattedDivision(123456789124, 1000))
+
+import { NumberSearch } from "./medium/11_NumberSearch.js";
+
+console.log(NumberSearch("Hello6 9World 2, Nic8e D7ay!"))
