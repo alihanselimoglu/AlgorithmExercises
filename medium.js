@@ -28,4 +28,8 @@ import { SimpleMode } from "./medium/6_SimpleMode.js";
 
 import { Consecutive } from "./medium/7_Consecutive.js";
 
-console.log(Consecutive([4, 8, 6, 9, 11, 19, 1, 2, 3]))
+// console.log(Consecutive([4, 8, 6, 9, 11, 19, 1, 2, 3]))
+
+import { FormattedDivision } from "./medium/8_FormattedDivision.js";
+
+console.log(FormattedDivision(123456789124, 1000))
