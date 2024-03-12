@@ -40,4 +40,8 @@ import { NumberSearch } from './medium/11_NumberSearch.js';
 
 import { TripleDouble } from './medium/12_TripleDouble.js';
 
-console.log(TripleDouble(4519992777, 411722899));
+// console.log(TripleDouble(4519992777, 411722899));
+
+import { StringReduction } from './medium/13_StringReduction.js';
+
+console.log(StringReduction("cab"))
