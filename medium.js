@@ -48,4 +48,8 @@ import { StringReduction } from './medium/13_StringReduction.js';
 
 import { ThreeFiveMultiples } from './medium/14_ThreeFiveMultiples.js';
 
-console.log(ThreeFiveMultiples(12))
+// console.log(ThreeFiveMultiples(12))
+
+import { FibonacciChecker } from './medium/15_FibonacciChecker.js';
+
+console.log(FibonacciChecker(89))
