@@ -8,14 +8,17 @@ If num is not in the Fibonacci
 sequence, return the string no. */
 
 export function FibonacciChecker(num) {
-  let m = 0;
-  let n = 1;
-  let temp = 0;
-  for (let i = 2; num > temp; i++) {
-    temp = m + n;
-    m = n;
-    n = temp;
-    if (num === temp) return 'yes';
-  }
-  return 'no';
+//   let m = 0;
+//   let n = 1;
+//   let temp = 0;
+//   for (let i = 2; num > temp; i++) {
+//     temp = m + n;
+//     m = n;
+//     n = temp;
+//     if (num === temp) return 'yes';
+//   }
+//   return 'no';
+
+  return Number.isInteger(Math.sqrt(5 * num * num + 4)) || 
+  Number.isInteger(Math.sqrt(5 * num * num - 4)) ? 'Yes' : 'No'
 }
