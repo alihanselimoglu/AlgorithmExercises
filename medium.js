@@ -44,4 +44,8 @@ import { TripleDouble } from './medium/12_TripleDouble.js';
 
 import { StringReduction } from './medium/13_StringReduction.js';
 
-console.log(StringReduction("cab"))
+// console.log(StringReduction("cab"))
+
+import { ThreeFiveMultiples } from './medium/14_ThreeFiveMultiples.js';
+
+console.log(ThreeFiveMultiples(12))
