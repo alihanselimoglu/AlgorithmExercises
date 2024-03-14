@@ -56,4 +56,8 @@ import { FibonacciChecker } from './medium/15_FibonacciChecker.js';
 
 import { NthFibonacci } from './medium/16_NthFibonacci.js';
 
-console.log(NthFibonacci(11))
+// console.log(NthFibonacci(5))
+
+import { NthFibonacci_Memorization } from './medium/17_NthFibonacci_Memorization.js';
+
+console.log(NthFibonacci_Memorization(2))
