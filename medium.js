@@ -60,4 +60,8 @@ import { NthFibonacci } from './medium/16_NthFibonacci.js';
 
 import { NthFibonacci_Memorization } from './medium/17_NthFibonacci_Memorization.js';
 
-console.log(NthFibonacci_Memorization(2))
+// console.log(NthFibonacci_Memorization(2))
+
+import { MultipleBrackets } from './medium/18_MultipleBrackets.js';
+
+console.log(MultipleBrackets('(hello [world])(!)'))
