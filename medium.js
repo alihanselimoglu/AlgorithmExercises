@@ -52,4 +52,8 @@ import { ThreeFiveMultiples } from './medium/14_ThreeFiveMultiples.js';
 
 import { FibonacciChecker } from './medium/15_FibonacciChecker.js';
 
-console.log(FibonacciChecker(89))
+// console.log(FibonacciChecker(89))
+
+import { NthFibonacci } from './medium/16_NthFibonacci.js';
+
+console.log(NthFibonacci(11))
