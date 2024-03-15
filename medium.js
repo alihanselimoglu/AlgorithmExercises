@@ -64,4 +64,8 @@ import { NthFibonacci_Memorization } from './medium/17_NthFibonacci_Memorization
 
 import { MultipleBrackets } from './medium/18_MultipleBrackets.js';
 
-console.log(MultipleBrackets('(hello [world])(!)'))
+// console.log(MultipleBrackets('(hello [world])(!)'))
+
+import { MostFreeTime } from './medium/19_MostFreeTime.js';
+
+console.log(MostFreeTime(["10:00AM-12:30PM","02:00PM-02:45PM","09:10AM-09:50AM"]))
